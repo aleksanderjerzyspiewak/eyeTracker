@@ -1,0 +1,399 @@
+{
+    "imageLibrary": "./img/",
+    "center": {
+      "image_url": "center.jpg",
+      "letter": "none",
+      
+      "left": {
+        "image_url": "a_p.jpg",
+        "letter": "none",
+        
+        "left": {
+            "image_url": "a_p1.jpg",
+            "letter": "none",
+            
+            "left": {
+                "image_url": "none",
+                "letter": "a"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "b"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "c"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "d"
+            }
+        },
+        "up": {
+            "image_url": "a_p2.jpg",
+            "letter": "none",
+            
+            "left": {
+                "image_url": "none",
+                "letter": "e"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "f"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "g"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "h"
+            }
+        },
+        "down": {
+            "image_url": "a_p3.jpg",
+            "letter": "none",
+            
+            "left": {
+                "image_url": "none",
+                "letter": "i"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "j"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "k"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "l"
+            }
+        },
+        "right": {
+            "image_url": "a_p4.jpg",
+            "letter": "none",
+                
+            "left": {
+                "image_url": "none",
+                "letter": "m"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "n"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "o"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "p"
+            }
+        }
+      },
+      "up": {
+        "image_url": "kalkulator.jpg",
+        "letter": "none",
+        
+        "left": {
+            "image_url": "kalkulator1.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "0"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "1"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "2"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "3"
+            }
+        },
+        "up": {
+            "image_url": "kalkulator2.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "4"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "5"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "6"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "7"
+            }        
+        },
+        "down": {
+            "image_url": "kalkulator3.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "8"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "9"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "="
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "+"
+            }        
+        },
+        "right": {
+            "image_url": "kalkulator4.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "-"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "*"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "/"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "^"
+            }        
+        }
+      },
+      "down": {
+        "image_url": "specjal.jpg",
+        "letter": "none",
+        
+        "left": {
+            "image_url": "specjal1.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "space"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "backspace"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "."
+            },
+            "right": {
+                "image_url": "none",
+                "letter": ","
+            }      
+        },
+        "up": {
+            "image_url": "specjal2.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": ":"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": ";"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "quote"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "'"
+            }   
+        },
+        "down": {
+            "image_url": "specjal3.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "?"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "!"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "@"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "#"
+            }   
+        },
+        "right": {
+            "image_url": "specjal4.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "$"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "%"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "&"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "_"
+            }   
+        }      
+      },
+      "right": {
+        "image_url": "q_z.jpg",
+        "letter": "none",
+        
+        "left": {
+            "image_url": "q_z1.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "q"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "r"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "s"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "t"
+            }   
+        },
+        "up": {
+            "image_url": "q_z2.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "u"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "v"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "w"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "x"
+            }   
+        },
+        "down": {
+            "image_url": "q_z3.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "y"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "z"
+            },
+            "down": {
+                "image_url": "ultra1.jpg",
+                "letter": "none",
+
+                "left": {
+                    "image_url": "none",
+                    "letter": "left"
+                },
+                "up": {
+                    "image_url": "none",
+                    "letter": "up"
+                },
+                "down": {
+                    "image_url": "none",
+                    "letter": "down"
+                },
+                "right": {
+                    "image_url": "none",
+                    "letter": "right"
+                }   
+            },
+            "right": {
+                "image_url": "ultra2.jpg",
+                "letter": "none",
+
+                "left": {
+                    "image_url": "none",
+                    "letter": "print"
+                },
+                "up": {
+                    "image_url": "none",
+                    "letter": "enter"
+                },
+                "down": {
+                    "image_url": "none",
+                    "letter": "deleteAll"
+                },
+                "right": {
+                    "image_url": "none",
+                    "letter": "delete"
+                }   
+            }   
+        },
+        "right": {
+            "image_url": "q_z4.jpg",
+            "letter": "none",
+        
+            "left": {
+                "image_url": "none",
+                "letter": "pod1"
+            },
+            "up": {
+                "image_url": "none",
+                "letter": "pod2"
+            },
+            "down": {
+                "image_url": "none",
+                "letter": "pod3"
+            },
+            "right": {
+                "image_url": "none",
+                "letter": "pod4"
+            }   
+        } 
+      }
+    }
+  }
+  
